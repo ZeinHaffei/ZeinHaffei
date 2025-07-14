@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Computer Vision](https://raw.githubusercontent.com/your-username/your-username/main/assets/1.jpg)
+![Computer Vision](https://raw.githubusercontent.com/ZeinHaffei/ZeinHaffei/main/assets/1.jpg)
 
 <!--
 **ZeinHaffei/ZeinHaffei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
